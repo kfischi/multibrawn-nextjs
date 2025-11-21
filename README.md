@@ -1,2 +1,0 @@
-# multibrawn-nextjs
-multibrawn-nextjs
